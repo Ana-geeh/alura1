@@ -1,4 +1,4 @@
-@@ -0,0 +1,327 @@
+
 {
   "nbformat": 4,
   "nbformat_minor": 0,
@@ -129,7 +129,7 @@
         "id": "UiUmhq023phx"
       }
     },
-    {
+    { 
       "cell_type": "code",
       "source": [
         "livro_ficcao = 10\n",
